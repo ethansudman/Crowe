@@ -1,0 +1,63 @@
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Web API.dll.config
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Web API.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Web API.pdb
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Antlr3.Runtime.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\EntityFramework.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\EntityFramework.SqlServer.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.Core.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.Owin.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Host.SystemWeb.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Cookies.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Facebook.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Google.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.OAuth.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Twitter.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Web.Infrastructure.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Newtonsoft.Json.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Owin.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Net.Http.Formatting.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Helpers.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.Owin.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.WebHost.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Mvc.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Optimization.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Razor.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.Deployment.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.Razor.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\WebGrease.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Newtonsoft.Json.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Net.Http.Formatting.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Helpers.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.WebHost.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Mvc.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Optimization.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Razor.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.Deployment.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.WebPages.Razor.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Antlr3.Runtime.pdb
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\EntityFramework.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\EntityFramework.SqlServer.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.Core.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.Owin.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Host.SystemWeb.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Facebook.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Cookies.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.OAuth.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Google.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.Twitter.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\bin\System.Web.Http.Owin.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\obj\Debug\Web API.csprojResolveAssemblyReference.cache
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\obj\Debug\Web API.dll
+e:\my documents\visual studio 2013\Projects\Crowe Test\Web API\obj\Debug\Web API.pdb

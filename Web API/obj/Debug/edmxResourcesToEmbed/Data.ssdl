@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CroweTestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="varchar(max)" Nullable="false" />
+    <Property Name="EmailAddress" Type="varchar(max)" />
+    <Property Name="PhoneNumber" Type="varchar(max)" />
+    <Property Name="Address" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="CroweTestModelStoreContainer">
+    <EntitySet Name="People" EntityType="Self.People" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

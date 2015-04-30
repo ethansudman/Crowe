@@ -1,0 +1,8 @@
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\bin\Debug\Crowe Test.exe.config
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\bin\Debug\Crowe Test.exe
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\bin\Debug\Crowe Test.pdb
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\obj\Debug\Crowe Test.exe
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\obj\Debug\Crowe Test.pdb
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\bin\Debug\EntityFramework.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\bin\Debug\EntityFramework.SqlServer.xml
+e:\my documents\visual studio 2013\Projects\Crowe Test\Crowe Test\obj\Debug\Crowe Test.csprojResolveAssemblyReference.cache

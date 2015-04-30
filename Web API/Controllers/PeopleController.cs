@@ -45,6 +45,8 @@ namespace Web_API.Controllers
         private void QueueMessage(dynamic message)
         {
             // Really should be in configuration
+            // We might eventually move all of this logic (database logic, message queueing, etc.) into some kind of a Strategy Pattern and use a
+            // Factory Pattern to decide which algorithm to use
             const string name = @".\Private$\CroweQueue";
 
             MessageQueue queue = null;
@@ -73,7 +75,6 @@ namespace Web_API.Controllers
 
             try
             {
-
                 // Eventually factor this out into a new method
                 var config = System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(System.Web.HttpContext.Current.Request.ApplicationPath);
                 var messageQueue = config.AppSettings.Settings["MessageQueue"];

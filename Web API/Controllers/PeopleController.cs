@@ -73,17 +73,16 @@ namespace Web_API.Controllers
 
             try
             {
-                //System.Configuration.Configuration config = System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(null);
+
+                // Eventually factor this out into a new method
                 var config = System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(System.Web.HttpContext.Current.Request.ApplicationPath);
-                //var messageQueue = (bool)Configuration.Properties["MessageQueue"];
                 var messageQueue = config.AppSettings.Settings["MessageQueue"];
                 if (bool.Parse(messageQueue.Value))
                     QueueMessage(PersonToString(person));
-                else
-                {
-                    db.Entry(person).State = EntityState.Modified;
-                    db.SaveChanges();
-                }
+
+                // Always write to the DB
+                db.Entry(person).State = EntityState.Modified;
+                db.SaveChanges();
             }
             // Eventually 
             catch (DbUpdateConcurrencyException)
@@ -153,6 +152,15 @@ namespace Web_API.Controllers
                 return BadRequest(ModelState);
             }
 
+            // Eventually move this out to a new method
+            var config = System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(System.Web.HttpContext.Current.Request.ApplicationPath);
+            var messageQueue = config.AppSettings.Settings["MessageQueue"];
+
+            // Essentially, a message queue allows us to eventually write this to something like a console application if we want to
+            if (bool.Parse(messageQueue.Value))
+                QueueMessage(PersonToString(person)); // We could've just sent the whole object if we had chosen
+
+            // Always add to the db
             db.People.Add(person);
             db.SaveChanges();
 

@@ -10,6 +10,7 @@ namespace Crowe_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
